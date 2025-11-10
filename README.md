@@ -36,6 +36,6 @@ Gosto de criar coisas que funcionam, testar ideias e ver o código tomando forma
 
 ---
 
-## 🌐 Onde me encontrar  
+## 🌐 Teste direto no CodePen  
 
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/vitoriaabarbozaa)
